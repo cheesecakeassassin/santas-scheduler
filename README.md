@@ -16,7 +16,7 @@ https://cheesecakeassassin.github.io/santas-scheduler/
 https://github.com/cheesecakeassassin/santas-scheduler
 
 ## Working page screenshots 
-<img src="./Develop/assets/images/santas-scheduler.png">
+<img src="./assets/images/santas-scheduler.png">
 
 ## Contributions
 ❤️Made by [Sebastian Santa]
